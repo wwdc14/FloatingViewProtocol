@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FloatingViewProtocol"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "A protocol make your view floating and draggable"
   s.homepage     = "https://github.com/Natai/FloatingViewProtocol"
   s.license      = { :type => "MIT", :file => "LICENSE" }
